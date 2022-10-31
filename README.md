@@ -1,5 +1,5 @@
 # Car-Simulator
-This project is a car simulator to study the Unity fundamentals
+This project is a car simulator to study the Unity and C# Fundamentals
 
 <br>
 <span>💻 Technologies </span>
